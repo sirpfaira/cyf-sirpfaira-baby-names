@@ -1,4 +1,4 @@
-@import url('http://fonts.cdnfonts.com/css/little-lord-fontleroy-nf');
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap');
 
 .names-ul {
   display: flex;
@@ -15,8 +15,8 @@
   border: solid;
   border-color: blue;
   border-radius: 0.5em;
-  font-family: 'Little Lord Fontleroy NF', sans-serif;
-  font-size: 2rem;
+  font-family: 'Finger Paint', cursive;
+  font-size: 1.2rem;
   color: black;
 }
 .girl-name {
@@ -25,6 +25,22 @@
 
 .boy-name {
   background-color: seagreen;
+}
+
+.search-div {
+  text-align: center;
+  padding: 1rem;
+}
+.all-div {
+  padding: 0.5rem;
+}
+.container {
+  margin: 1rem;
+  border-radius: 1rem;
+  border: solid;
+  border-color: blue;
+  border-width: 4px;
+  background-color: aqua;
 }
 
 .App {
