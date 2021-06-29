@@ -43,6 +43,12 @@
   background-color: aqua;
 }
 
+.fav-label {
+  font-size: 2rem;
+  margin-right: 1rem;
+  font-family: 'Finger Paint', cursive;
+}
+
 .App {
   text-align: center;
 }
